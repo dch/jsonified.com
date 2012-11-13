@@ -6,7 +6,7 @@ to the world, with minimum fuss and maximum reliability.
 Core technologies used are:
 
 - Apache CouchDB and friends for data layer
-- CouchDB-Lucence ElasticSearch for full-text search and indexing
+- ElasticSearch and CouchDB-Lucene for full-text search and indexing
 - Perl, Erlang/OTP, Python or JavaScript and Node.js for integration
 
 We leverage a wide network of cloud vendors and partners to help you get
