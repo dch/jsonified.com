@@ -15,4 +15,4 @@ things done.
 With over 20 years of data management expertise, from perl to erlang,
 your data couldn't be in better hands.
 
-"JSONified: JSONified: Open your Data to the Web. And Relax."
+"JSONified: Open your Data to the Web. And Relax."
